@@ -1,0 +1,2 @@
+# rgworkerpool
+Go workerpool
