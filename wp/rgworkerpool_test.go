@@ -1,4 +1,4 @@
-package rgworkerpool
+package wp
 
 import (
 	"testing"
